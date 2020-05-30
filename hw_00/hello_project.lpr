@@ -1,5 +1,5 @@
 program hello_project;
 begin
-  WriteLn('Hello');
+  WriteLn('Hello, world!');
   ReadLn;
 end.
